@@ -1,8 +1,8 @@
-# Khai báo biến `Declare variable`
+# Khai báo biến 
 
 var [dấu cách] [tên biến];
 
-# Quy tắc đặt tên biến `Naming rules variable`
+# Quy tắc đặt tên biến 
 
 1. Tên biến có thể bao gồm chữ cái, số, dấu gạch dưới ( _ ) và kí tự đô la ( $ )
 
@@ -12,9 +12,9 @@ var [dấu cách] [tên biến];
 
 4. Tên biến không được (không thể) đặt trùng với các từ khóa của Javascript
 
-# Gán giá trị cho biến `Assign value to variable`
+# Gán giá trị cho biến 
 
-# Đặt tên biến như nào cho đúng? `How to name variables correctly?`
+# Đặt tên biến như nào cho đúng? 
 
 1. Tên biến phải có ý nghĩa cụ thể, phải rõ ràng và thể hiện được nó đang lưu trữ cái gì.
 
@@ -24,7 +24,7 @@ var [dấu cách] [tên biến];
 
 4. Tránh đặt tên biến chung chung kiểu như data, value. Vì khi nhìn vào không thể hiểu data là data của cái gì, value là value của cái gì. Chỉ sử dụng tên dạng này khi đang trong ngữ cảnh cụ thể giúp bổ nghĩa cho những từ chung chung đó.
 
-# Có thể bạn chưa biết `Maybe you don't know`
+# Có thể bạn chưa biết 
 
 1. Đặt tên biến là một trong những kỹ năng quan trọng và phức tạp nhất trong lập trình. Nhìn lướt qua các tên biến có thể biết code nào được viết bởi người mới và người đã có nhiều kinh nghiệm.
 
