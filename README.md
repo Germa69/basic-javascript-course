@@ -7,3 +7,5 @@
 3. Làm việc với hàm
 
 4. Làm việc với chuỗi
+
+5. Làm việc với số
