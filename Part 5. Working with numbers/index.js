@@ -99,7 +99,6 @@ const app = {
 		console.log(typeof result);
 		console.groupEnd();
 	}
-	
 }
 
 app.create();
