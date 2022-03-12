@@ -5,3 +5,5 @@
 2. Toán tử, kiểu dữ liệu
 
 3. Làm việc với hàm
+
+4. Làm việc với chuỗi
