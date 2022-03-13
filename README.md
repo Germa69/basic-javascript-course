@@ -9,3 +9,7 @@
 4. Làm việc với chuỗi
 
 5. Làm việc với số
+
+6. Làm việc với mảng (I)
+
+7. Làm việc với Object

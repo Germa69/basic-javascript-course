@@ -78,6 +78,7 @@ const app = {
 	join() {
 		console.group('join');
 		let arr = [1, 2, 3];
+		let ar2 = [4, 5]
 		console.log(arr.toString());
 		console.log(typeof arr.toString());
 		console.groupEnd();
